@@ -173,7 +173,7 @@ void wifi_promiscuous(void* buffer, wifi_promiscuous_pkt_type_t type)
                 printf("..");
             }
 
-            //we dont want dots after the last column
+            //we dont want dots as spacer after the last column, but otherwise we would
             if (column != 12) {
                 printf("..");
             }

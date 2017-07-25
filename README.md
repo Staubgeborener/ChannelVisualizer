@@ -11,6 +11,9 @@ The code is kind a mess, but nevermind.
 
 Want to see something cool? Just turn on your microwave near the ESP32 and start the program.
 
+## What it does
+For this project, we use the promiscuous mode of the ESP32.  The ESP32 will change every 50 ms the channel. In parallel, each time we receive a paket, the callback will triggered. The ESP32 will just look in this moment which channel is setted, increment this and calculate the relative frequency.
+
 ## Execution
 
 Just type `make monitor` in your terminal window.

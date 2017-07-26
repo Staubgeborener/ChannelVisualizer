@@ -9,7 +9,7 @@
 #include <string.h>
 
 #define CHANNEL_SWITCHING true // true, if channel chould be switched. otherwise define a static channel in line 14
-#define SWITCHING_TIME 500 // time (ms) till channel switching
+#define SWITCHING_TIME 50 // time (ms) till channel switching
 
 uint8_t channel;
 uint32_t all_channels, channel_calculator,

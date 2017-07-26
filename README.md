@@ -2,6 +2,8 @@
 
 With this program, you can use your ESP32 MCU to visualize the relative frequency of all packets on every* channel on a serial monitor. *channel 1 - 13 on 2.4 GHz frequency band
 
+Would you like to use this project on the road? Read my [guide about using your MCU with a power bank (and keeping it alive)](https://github.com/Staubgeborener/ESP32_KeepPowerbankAlive).
+
 This project is inspired from [Spacehuhns PacketMonitor](https://github.com/spacehuhn/PacketMonitor) (go and buy yourself one of those on [tindie](https://www.tindie.com/products/lspoplove/wifi-packet-monitor-preflashed-d-duino-b/) or [AliExpress](https://www.aliexpress.com/item/WiFi-Packet-Monitor-Preflashed-D-duino-B-ESP8266-1-3OLED/32816508278.html)!)
 
 The code is kind a mess, but nevermind.

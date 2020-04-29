@@ -12,6 +12,8 @@ Would you like to use this project on the road? Read my [guide about using your 
 
 **Note:** It's still in progress. At the moment only a visualization on the serial monitor works. An update for OLED-Display will come in the next few weeks. And maybe (just maybe) an option to show those graphs also on a more beautiful (even beautifuller you may ask?) way using python script for the shell. Also a *bluetooth update* will come in the next months.
 
+_Update from the future: Well, nearly 4 years later there is still no bluetooth update and it probably won't come either_
+
 
 Want to see something cool? Just turn on your microwave near the ESP32 and start the program.
 
